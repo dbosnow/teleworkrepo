@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Request Te 0 1663341978955</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_request_te_0_1663341978955</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-16 15:26:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5c328cec878a155466edcae5dabb35e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request Te 0 1663341978955</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Request Telework" source="x_snc_request_te_0">81a100ec878a155466edcae5dabb356c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Request Telework">81a100ec878a155466edcae5dabb356c</sys_scope>
+        <sys_update_name>sys_app_module_5c328cec878a155466edcae5dabb35e6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-16 15:26:21</sys_updated_on>
+        <timeline_page/>
+        <title>Request Te 0 1663341978955</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Telework Request">81a100ec878a155466edcae5dabb356c</application>
+        <file_path/>
+        <instance_id>f9b89be1db8d9d5842b321c405961986</instance_id>
+        <instance_name>bolingdemo</instance_name>
+        <name>sys_app_module_5c328cec878a155466edcae5dabb35e6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Request Te 0 1663341978955</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_snc_request_te_0_1663341978955</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-16 15:26:21</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5c328cec878a155466edcae5dabb35e6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Request Te 0 1663341978955</sys_name><sys_overrides/><sys_package display_value="Request Telework" source="x_snc_request_te_0">81a100ec878a155466edcae5dabb356c</sys_package><sys_policy/><sys_scope display_value="Request Telework">81a100ec878a155466edcae5dabb356c</sys_scope><sys_update_name>sys_app_module_5c328cec878a155466edcae5dabb35e6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-16 15:26:21</sys_updated_on><timeline_page/><title>Request Te 0 1663341978955</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1476679469</payload_hash>
+        <record_name>Request Te 0 1663341978955</record_name>
+        <reverted_from/>
+        <source>45a100ec878a155466edcae5dabb356e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-16 15:26:21</sys_created_on>
+        <sys_id>9032ccec878a155466edcae5dabb350f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18346e86f3c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-16 15:26:21</sys_updated_on>
+        <type>Module</type>
+        <update_guid>9832ccec128a155423e000c0c572660e</update_guid>
+        <update_guid_history>9832ccec128a155423e000c0c572660e:1476679469</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Request Te 0 1663341978955">0482842087ca155466edcae5dabb35bb</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-16 15:27:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>05a2173e0a4042b898d25b1219632d81</sys_id>
+        <sys_metadata>5c328cec878a155466edcae5dabb35e6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request Te 0 1663341978955</sys_name>
+        <sys_package display_value="Telework Request" source="x_snc_request_te_0">81a100ec878a155466edcae5dabb356c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request">81a100ec878a155466edcae5dabb356c</sys_scope>
+        <sys_scope_delete display_value="">e02832b645144feca4d1258e4afd7609</sys_scope_delete>
+        <sys_update_name>sys_app_module_5c328cec878a155466edcae5dabb35e6</sys_update_name>
+        <sys_update_version display_value="sys_app_module_5c328cec878a155466edcae5dabb35e6">9032ccec878a155466edcae5dabb350f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-16 15:27:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

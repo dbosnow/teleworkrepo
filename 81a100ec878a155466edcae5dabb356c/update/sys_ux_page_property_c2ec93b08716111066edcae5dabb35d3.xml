@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>featureRoutes</name>
+        <page display_value="Telework Request">bf9a882cc8ca15548baae4f1e0753576</page>
+        <required_translations>[ ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-30 12:16:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>c2ec93b08716111066edcae5dabb35d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>featureRoutes</sys_name>
+        <sys_package display_value="Telework Request" source="x_snc_request_te_0">81a100ec878a155466edcae5dabb356c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request">81a100ec878a155466edcae5dabb356c</sys_scope>
+        <sys_update_name>sys_ux_page_property_c2ec93b08716111066edcae5dabb35d3</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-09-30 12:16:05</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_snc_request_te_0.bf9a882cc8ca15548baae4f1e0753576.root.featureRoutes</unique_name>
+        <value>{"record":{"_default":{"routeInfo":{"route":"record","fields":[{"name":"table","mapping":{"address":"table"}},{"name":"sysId","mapping":{"address":"sysId"}}],"params":[{"name":"query","mapping":{"address":"query"}},{"name":"extraParams","mapping":{"address":"extraParams"}}]}}},"list":{"_default":{"routeInfo":{"route":"list","fields":[],"params":[{"name":"listId","mapping":{"address":"listId"}},{"name":"configId","mapping":{"address":"configId"}},{"name":"tinyId","mapping":{"address":"tinyId"}}]}}}}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=c2ec93b08716111066edcae5dabb35d3"/>
+</record_update>

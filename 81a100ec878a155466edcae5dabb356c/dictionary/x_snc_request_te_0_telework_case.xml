@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Telework Case" max_length="40" name="x_snc_request_te_0_telework_case" sizeclass="41" text_index="true" type="collection">
+        <element label="Arrangement" max_length="32" name="arrangement" reference="x_snc_request_te_0_arrangement" type="reference"/>
+        <element label="Number of Days" max_length="40" name="number_of_days" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Reason" max_length="40" name="reason" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Emergency" sequence="0" value="emergency"/>
+                <element inactive_on_update="false" label="Occasional" sequence="1" value="occasional"/>
+                <element inactive_on_update="false" label="Medical" sequence="2" value="medical"/>
+                <element inactive_on_update="false" label="Reasonable Accommodation" sequence="3" value="reasonable_accommodation"/>
+                <element inactive_on_update="false" label="COVID" sequence="4" value="covid"/>
+            </choice>
+        </element>
+    </element>
+</database>

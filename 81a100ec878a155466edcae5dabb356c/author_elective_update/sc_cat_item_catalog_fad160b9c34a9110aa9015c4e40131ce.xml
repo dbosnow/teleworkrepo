@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Apply for Telework">54f3d475c30a9110aa9015c4e4013127</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-20 14:57:05</sys_created_on>
+        <sys_id>fad160b9c34a9110aa9015c4e40131ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Apply for Telework</sys_name>
+        <sys_package display_value="Telework Request" source="x_snc_request_te_0">81a100ec878a155466edcae5dabb356c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request">81a100ec878a155466edcae5dabb356c</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_fad160b9c34a9110aa9015c4e40131ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-20 14:57:05</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Telework Request">81a100ec878a155466edcae5dabb356c</application>
+        <file_path/>
+        <instance_id>f9b89be1db8d9d5842b321c405961986</instance_id>
+        <instance_name>bolingdemo</instance_name>
+        <name>sc_cat_item_catalog_fad160b9c34a9110aa9015c4e40131ce</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Apply for Telework">54f3d475c30a9110aa9015c4e4013127</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-20 14:57:05</sys_created_on><sys_id>fad160b9c34a9110aa9015c4e40131ce</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Apply for Telework</sys_name><sys_package display_value="Telework Request" source="x_snc_request_te_0">81a100ec878a155466edcae5dabb356c</sys_package><sys_policy/><sys_scope display_value="Telework Request">81a100ec878a155466edcae5dabb356c</sys_scope><sys_update_name>sc_cat_item_catalog_fad160b9c34a9110aa9015c4e40131ce</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-20 14:57:05</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-364377093</payload_hash>
+        <record_name>Service Catalog.Apply for Telework</record_name>
+        <reverted_from/>
+        <source>45a100ec878a155466edcae5dabb356e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-20 14:57:05</sys_created_on>
+        <sys_id>fad160b9c34a9110aa9015c4e40131d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1835b67134d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-20 14:57:05</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>32d160b9574a91107fedfd53f07fa8d1</update_guid>
+        <update_guid_history>32d160b9574a91107fedfd53f07fa8d1:-364377093</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Apply for Telework">b19a60f5c38a9110aa9015c4e401314a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-20 15:35:14</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>d4d72d2f437c4c94a1dd0384370a9f90</sys_id>
+        <sys_metadata>fad160b9c34a9110aa9015c4e40131ce</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Apply for Telework</sys_name>
+        <sys_package display_value="Telework Request" source="x_snc_request_te_0">81a100ec878a155466edcae5dabb356c</sys_package>
+        <sys_parent display_value="Apply for Telework">54f3d475c30a9110aa9015c4e4013127</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request">81a100ec878a155466edcae5dabb356c</sys_scope>
+        <sys_scope_delete display_value="">e02832b645144feca4d1258e4afd7609</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_fad160b9c34a9110aa9015c4e40131ce</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_fad160b9c34a9110aa9015c4e40131ce">fad160b9c34a9110aa9015c4e40131d1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-20 15:35:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

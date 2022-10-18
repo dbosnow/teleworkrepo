@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="reason" table="x_snc_request_te_0_telework_case" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>reason</element>
+            <name>x_snc_request_te_0_telework_case</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-16 15:33:01</sys_created_on>
+            <sys_id>cab388a087ca155466edcae5dabb35c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>reason</sys_name>
+            <sys_package display_value="Telework Request" source="x_snc_request_te_0">81a100ec878a155466edcae5dabb356c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Telework Request">81a100ec878a155466edcae5dabb356c</sys_scope>
+            <sys_update_name>sys_choice_x_snc_request_te_0_telework_case_reason</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-16 15:33:01</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Emergency</label>
+            <language>en</language>
+            <name>x_snc_request_te_0_telework_case</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-16 15:33:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>86b388a087ca155466edcae5dabb35c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-16 15:33:01</sys_updated_on>
+            <value>emergency</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Occasional</label>
+            <language>en</language>
+            <name>x_snc_request_te_0_telework_case</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-16 15:33:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8ab388a087ca155466edcae5dabb35c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-16 15:33:01</sys_updated_on>
+            <value>occasional</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Medical</label>
+            <language>en</language>
+            <name>x_snc_request_te_0_telework_case</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-16 15:33:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>42b388a087ca155466edcae5dabb35fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-16 15:33:01</sys_updated_on>
+            <value>medical</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reasonable Accommodation</label>
+            <language>en</language>
+            <name>x_snc_request_te_0_telework_case</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-16 15:33:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0eb388a087ca155466edcae5dabb35ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-16 15:33:01</sys_updated_on>
+            <value>reasonable_accommodation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>COVID</label>
+            <language>en</language>
+            <name>x_snc_request_te_0_telework_case</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-16 15:33:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c6b3c8a087ca155466edcae5dabb3503</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-16 15:33:01</sys_updated_on>
+            <value>covid</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

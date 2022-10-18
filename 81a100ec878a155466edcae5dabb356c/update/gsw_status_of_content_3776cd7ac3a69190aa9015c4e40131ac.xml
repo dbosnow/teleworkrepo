@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_status_of_content">
+    <gsw_status_of_content action="INSERT_OR_UPDATE">
+        <best_practice_allowed_ever>0</best_practice_allowed_ever>
+        <checksum>K/11OBSsefCzn2HwWi5fw+a/3Ao=</checksum>
+        <content display_value="App Engine Management Center Guided Setup">6583c7e5c3410110b83971e54440ddde</content>
+        <effective_weight>1</effective_weight>
+        <more_info_visited>false</more_info_visited>
+        <previous_status>0</previous_status>
+        <progress>0</progress>
+        <related_log_entry display_value="2022-10-18 09:42:30">7376017ec3a69190aa9015c4e40131cc</related_log_entry>
+        <status>0</status>
+        <sys_class_name>gsw_status_of_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-18 16:42:30</sys_created_on>
+        <sys_id>3776cd7ac3a69190aa9015c4e40131ac</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>0</sys_name>
+        <sys_package display_value="Telework Request" source="x_snc_request_te_0">81a100ec878a155466edcae5dabb356c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request">81a100ec878a155466edcae5dabb356c</sys_scope>
+        <sys_update_name>gsw_status_of_content_3776cd7ac3a69190aa9015c4e40131ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-18 16:42:30</sys_updated_on>
+    </gsw_status_of_content>
+</record_update>
